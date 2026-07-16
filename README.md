@@ -1,3 +1,12 @@
+---
+name: "Building Your Language Muscle"
+description: "Transforms a language-learning guide into deliberate-practice activities and an AI-enhanced companion."
+categories: [content-distribution, web-app, built-by-ai, powered-by-ai]
+updated: 2026-07-16
+deployments:
+  Appsite:
+    "Building Your Language Muscle": https://buildingyourlanguagemuscle.edutools.fyi/
+---
 # Building Your Language Muscle
 
 An interactive, AI-enhanced companion web application for the "Building Your Language Muscle" guide. This application transforms static content into a dynamic learning tool based on Deliberate Practice principles.
